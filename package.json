@@ -1,0 +1,24 @@
+{
+  "name": "lfztester",
+  "version": "0.1.0",
+  "description": "server side code testing endpoint",
+  "main": "testserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpaschal-lf/testserver.git"
+  },
+  "author": "Daniel Paschal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpaschal-lf/testserver/issues"
+  },
+  "homepage": "https://github.com/dpaschal-lf/testserver#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "sha1": "^1.1.1"
+  }
+}
